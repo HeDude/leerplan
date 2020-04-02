@@ -27,7 +27,7 @@
     <script>
         var canvas;
         var canvasContext;
-        var funCircle = { x: 200, y: 150, size:0, angle:0, color:"red", text:"Leuk" };
+        var funCircle = { x: 200, y: 150, size:0, angle:0, color:"red", text:"Speels" };
         var quickCircle = { x: 400, y: 350, size:0, angle:0, color:"green", text:"Snel" };
         var easyCircle = { x: 600, y: 150, size:0, angle:0, color:"blue", text:"Simpel" };
         var circleAngle = 0;
